@@ -68,8 +68,5 @@ This project is simulated using **Wokwi Online Simulator**.
 ## 🧪 Simulation Platform
 - **Wokwi – Online ESP32 & Arduino Simulator**
 
----
-
-## 👩‍💻 Author
-**Thaarani PS**
+ 
 
